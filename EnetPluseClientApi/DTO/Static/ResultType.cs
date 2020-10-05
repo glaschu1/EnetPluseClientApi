@@ -95,6 +95,13 @@ namespace EnetPluseClientApi.DTO.Static
         Strokes_points_r5,
         Wins,
         Rides,
-        Best_time
+        Best_time,
+        Classificationpoints,
+        Tops,
+        Zones,
+        Top_attempts,
+        Zone_attempts,
+        Interval,
+        Prize_money
     }
 }
